@@ -1,0 +1,6 @@
+name: genpark-reinforce-policy-gradient-baseline-skill
+version: 1.0.0
+description: REINFORCE Monte Carlo policy gradient algorithm with running baseline advantage subtraction
+command: python
+args:
+  - mcp_server.py
